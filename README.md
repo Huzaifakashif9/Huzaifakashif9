@@ -2,8 +2,9 @@
 - 👀 I’m interested in Software Enginneering
 - ✨ I’m a front end Web Designing
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m good at Html,css,javascript,json
+- 💞️ I’m good at Html,css,javascript,json,mysql,php,sqlserver
 - 📫 How to reach me insta: huzaifakashif_9
+  
 
 
 <!---
