@@ -1,14 +1,80 @@
-- 👋 Hi, I’m @Huzaifakashif9
-- 👀 I’m interested in Software Enginneering
-- ✨ I’m a Full Stack Developer
-- ✨ Mainly a ASP.Net Core Developer
-- 🌱 I’m currently learning Web Development using Asp.Net core
-- 💞️ I’m good at Html,css,javascript,json,mysql,php,sqlserver,c#,Python
-- 📫 How to reach me insta: huzaifakashif_9, linkedin: Huzaifa Kashif
+# 👋 Hi, I'm Huzaifa Kashif
+
+💻  Data Science Enthusiast | .NET Core Developer**
+
+
+## 🚀 About Me
+
+I am a passionate developer with strong experience in:
+
+* Backend Development using **.NET Core**
+* Database design and management
+* Data Science with **Python**
+* Working with popular Python libraries for analysis and visualization
+I enjoy turning data into insights.
+
+## 🛠️ Tech Stack
+
+### 💻 Backend Development
+
+* ASP.NET Core / .NET Core
+* REST APIs
+* MVC Architecture
+
+### 🗄️ Databases
+
+* SQL Server
+* MySQL
+* Database Design & Optimization
+* Stored Procedures & Queries
+
+### 🐍 Data Science & Python
+
+* Python
+* Pandas 📊
+* NumPy 🔢
+* Matplotlib 📈
+* Seaborn 🌊
+* Data Cleaning & Analysis
+* Exploratory Data Analysis (EDA)
+
+### 🌐 Other Skills
+
+* Git & GitHub
+* Problem Solving
+* Basic Frontend (HTML, CSS, JS)
+
+
+## 📊 What I Do
+
+* Build backend systems using .NET Core ⚙️
+* Work with databases and optimize queries 🗃️
+* Analyze data and extract insights using Python 📊
+* Create meaningful visualizations 📈
+
+---
+
+## 📌 Projects
+
+* 📊 Data Analysis Projects using Python
+* 🏦 Bank Management System (as.net core)
+* 🧸 Toys Website (HTML, CSS, JS)
   
 
 
-<!---
-Huzaifakashif9/Huzaifakashif9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎯 Currently Learning
+
+* Advanced Data Science & Machine Learning 🤖
+* Real-world API development
+* Flutter development and firebase
+
+
+## 📫 Contact Me
+
+* Email: huzaifakashif2037@gmail.com
+* LinkedIn:Huzaifa Kashif
+* GitHub: Huzaifakashif_9
+
+
+
+
