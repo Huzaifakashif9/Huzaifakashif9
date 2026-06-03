@@ -1,79 +1,45 @@
-# 👋 Hi, I'm Huzaifa Kashif
+💫 About Me:
 
-💻  Data Science Enthusiast | .NET Core Developer**
+🔭 I’m currently working on Machine Learning, Data Analysis, and FastAPI Projects
 
+👯 I’m looking to collaborate on Open Source AI and Data Science Projects
 
-## 🚀 About Me
+🤝 I’m looking for help with Advanced Machine Learning and MLOps
 
-I am a passionate developer with strong experience in:
+🌱 I’m currently learning Deep Learning, NLP, and Cloud Technologies
 
-* Backend Development using **.NET Core**
-* Database design and management
-* Data Science with **Python**
-* Working with popular Python libraries for analysis and visualization
-I enjoy turning data into insights.
+💬 Ask me about Python, Data Analysis, Machine Learning, FastAPI, and SQL
 
-## 🛠️ Tech Stack
+⚡ Fun fact: I love solving real-world problems with data and code.
 
-### 💻 Backend Development
+🌐 Socials:
 
-* ASP.NET Core / .NET Core
-* REST APIs
-* MVC Architecture
+[Facebook](https://facebook.com/Huzaifa Kashif) Instagram [LinkedIn](https://linkedin.com/in/M.Huzaifa Kashif) email
 
-### 🗄️ Databases
+💻 Tech Stack:
 
-* SQL Server
-* MySQL
-* Database Design & Optimization
-* Stored Procedures & Queries
+MySQL MicrosoftSQLServer Pandas Python Matplotlib JavaScript C# FastAPI Bootstrap Firebase Bootstrap FastAPI NumPy scikit-learn C# HTML5 Git GitHub
 
-### 🐍 Data Science & Python
-
-* Python
-* Pandas 📊
-* NumPy 🔢
-* Matplotlib 📈
-* Seaborn 🌊
-* Data Cleaning & Analysis
-* Exploratory Data Analysis (EDA)
-
-### 🌐 Other Skills
-
-* Git & GitHub
-* Problem Solving
-* Basic Frontend (HTML, CSS, JS)
+📊 GitHub Stats:
 
 
-## 📊 What I Do
-
-* Build backend systems using .NET Core ⚙️
-* Work with databases and optimize queries 🗃️
-* Analyze data and extract insights using Python 📊
-* Create meaningful visualizations 📈
-
----
-
-## 📌 Projects
-
-* 📊 Data Analysis Projects using Python
-* 🏦 Bank Management System (as.net core)
-* 🧸 Toys Website (HTML, CSS, JS)
-  
 
 
-## 🎯 Currently Learning
 
-* Advanced Data Science & Machine Learning 🤖
-* Real-world API development
-* Flutter development and firebase
+
+
+✍️ Random Dev Quote
+
+
+
+🔝 Top Contributed Repo
 
 
 ## 📫 Contact Me
 
 * Email: huzaifakashif2037@gmail.com
-* LinkedIn:Huzaifa Kashif
-* GitHub: Huzaifakashif_9
+* LinkedIn:M.Huzaifa Kashif
+* GitHub: Huzaifakashif9
 
 
 
