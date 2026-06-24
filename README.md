@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning, Data Analysis, and FastAPI Projects<br><br>👯 I’m looking to collaborate on Open Source AI and Data Science Projects<br><br>🤝 I’m a Website designer and Website Developer<br><br>🌱 I’m currently learning Deep Learning, NLP Fast api<br><br>💬 Ask me about Python,Web develoment, Data Analysis, Machine Learning, FastAPI, and SQL<br><br>⚡ Fun fact: I love solving real-world problems with data and code.
+🔭 I’m currently working on Machine Learning, Data Analysis, and Mern Stack Development<br><br>👯 I’m looking to collaborate on Open Source AI and Data Science Projects<br><br>🤝 I’m a Website designer and Website Developer<br><br>🌱 I’m currently learning Deep Learning,MERN Stack i<br><br>💬 Ask me about Python,Web develoment, Data Analysis, Machine Learning, FastAPI, and SQL<br><br>⚡ Fun fact: I love solving real-world problems with data and code.
 
 
 ## 🌐 Socials:
